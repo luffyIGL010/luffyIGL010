@@ -67,7 +67,7 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luffyIGL010&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://ghchart.rshah.org/0e75b6/luffyIGL010" alt="Contribution heatmap" width="100%" />
 </p>
 
 ## 🐍 Contribution Snake
