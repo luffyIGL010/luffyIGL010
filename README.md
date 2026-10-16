@@ -24,7 +24,7 @@
 - 🧪 Data Science Intern @ **CodSoft** (2 months)
 - 🏆 **2nd place** — UCOST state-level science competition
 - 🔭 Currently working on: GenAI apps, AI agents & DSA
-- 📫 Reach me: **TODO: your-email@example.com**
+- 📫 Reach me: **TODO: sauravrauthan82@gmail.com**
 
 ## 🛠️ Tech Stack
 
