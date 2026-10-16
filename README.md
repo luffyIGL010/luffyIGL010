@@ -1,7 +1,5 @@
-<!-- 🔧 Replace every YOUR_USERNAME with your GitHub username, and fill the links marked TODO -->
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=luffyIGL010&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Saurav</h1>
@@ -24,7 +22,7 @@
 - 🧪 Data Science Intern @ **CodSoft** (2 months)
 - 🏆 **2nd place** — UCOST state-level science competition
 - 🔭 Currently working on: GenAI apps, AI agents & DSA
-- 📫 Reach me: **TODO: sauravrauthan82@gmail.com**
+- 📫 Reach me: **sauravrauthan82@gmail.com**
 
 ## 🛠️ Tech Stack
 
@@ -54,22 +52,22 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=luffyIGL010&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luffyIGL010&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=luffyIGL010&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=luffyIGL010&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luffyIGL010&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
 ## 🐍 Contribution Snake
@@ -77,19 +75,19 @@
 <!-- Auto-generated daily by the GitHub Action in .github/workflows/snake.yml -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luffyIGL010/luffyIGL010/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luffyIGL010/luffyIGL010/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/luffyIGL010/luffyIGL010/output/github-snake.svg" />
   </picture>
 </p>
 
 ## 🔗 Connect With Me
 
 <p align="left">
-  <a href="TODO-linkedin-url"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:TODO-your-email"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="TODO-portfolio-url"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/TODO"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/saurav-rauthan-696a6428a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sauravrauthan82@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://myportfolio-sand-beta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Saurav1200/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
