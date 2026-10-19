@@ -1,1 +1,62 @@
 
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: jamesgeorge007/github-activity-readme@master
+        with:
+          MAX_LINES: 6
+          COMMIT_MSG: "chore: update recent activity"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update latest repos
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USER_NAME: ${{ github.repository_owner }}
+        run: |
+          python3 - << 'PY'
+          import os, re, json, urllib.request
+
+          user = os.environ["USER_NAME"]
+          req = urllib.request.Request(
+              f"https://api.github.com/users/{user}/repos?sort=pushed&per_page=30",
+              headers={"Authorization": f"Bearer {os.environ['GH_TOKEN']}"},
+          )
+          repos = json.load(urllib.request.urlopen(req))
+          repos = [r for r in repos if not r["fork"] and r["name"].lower() != user.lower()][:5]
+
+          lines = []
+          for r in repos:
+              desc = r["description"] or "No description yet"
+              lang = r["language"] or "-"
+              lines.append(f"- [**{r['name']}**]({r['html_url']}) - {desc} | `{lang}` | ⭐ {r['stargazers_count']}")
+          block = "\n".join(lines)
+
+          text = open("README.md", encoding="utf-8").read()
+          text = re.sub(
+              r"(<!--START_SECTION:repos-->)(.*?)(<!--END_SECTION:repos-->)",
+              lambda m: f"{m.group(1)}\n{block}\n{m.group(3)}",
+              text, flags=re.S,
+          )
+          open("README.md", "w", encoding="utf-8").write(text)
+          PY
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || (git commit -m "chore: update latest repos" && git push)
