@@ -49,11 +49,11 @@
 
 | Project | What it does | Tech | Links |
 |---|---|---|---|
-| 🏋️ **AI Gym Coach** | Real-time pose tracking + AI feedback on exercise form | MediaPipe, OpenCV, Groq API, Streamlit | [Repo](TODO) · [Live](TODO) |
-| 📄 **ATS Resume Scorer** | Scores resume vs job description, LLM suggestions, PDF report | FastAPI, Streamlit, spaCy, Sentence Transformers, Groq (Llama 3), Supabase | [Repo](TODO) · [Live](TODO) |
-| 🧑‍🎓 **Face Recognition Attendance** | Automated attendance using face recognition | Flask, dlib, scikit-learn, Supabase | [Repo](TODO) · [Live](TODO) |
-| 🎨 **Neural Style Transfer** | Applies artistic styles to images | PyTorch, VGG19 | [Repo](TODO) · [Live](TODO) |
-| ✈️ **Travel AI Agent** *(in progress)* | Agent for trip planning, hotel booking and travel info | LLM agents | Coming soon |
+| 🏋️ **AI Gym Coach** | Real-time pose tracking + AI feedback on exercise form | MediaPipe, OpenCV, Groq API, Streamlit | [Repo](https://github.com/luffyIGL010/Ai_gym_coach) · [Live](https://aigymcoach-5juxjews89c2qjeytpsm8x.streamlit.app) |
+| 📄 **ATS Resume Scorer** | Scores resume vs job description, LLM suggestions, PDF report | FastAPI, Streamlit, spaCy, Sentence Transformers, Groq (Llama 3), Supabase | [Repo](https://github.com/luffyIGL010/Ai_ATS_ResumeChecker) · [Live](https://aiatsresumechecker-7nncaxf47vhxqvytxeu2ka.streamlit.app) |
+| 🧑‍🎓 **Face Recognition Attendance** | Automated attendance using face recognition | Flask, dlib, scikit-learn, Supabase | [Repo](https://github.com/luffyIGL010/Smart_Attendence_AI) · [Live](https://smart-attendance-landing-page.vercel.app/) |
+| 🎨 **Neural Style Transfer** | Applies artistic styles to images | PyTorch, VGG19 | [Repo](https://github.com/luffyIGL010/Neural_Art_Transfer) |
+| ✈️ **TripCraft (Travel AI Agent)** | AI agent for trip planning, hotel booking and travel info | LLM agents | [Repo](https://github.com/luffyIGL010/trip_craft) · [Live](https://tripcraft-frontend-psi.vercel.app/) |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
