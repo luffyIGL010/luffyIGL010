@@ -113,11 +113,11 @@
 ## 🆕 Latest Repos
 
 <!--START_SECTION:repos-->
+- [**Ai_gym_coach**](https://github.com/luffyIGL010/Ai_gym_coach) - No description yet | `Python` | ⭐ 0
 - [**Ai_ATS_ResumeChecker**](https://github.com/luffyIGL010/Ai_ATS_ResumeChecker) - No description yet | `Jupyter Notebook` | ⭐ 0
 - [**Netflix_Clone**](https://github.com/luffyIGL010/Netflix_Clone) - No description yet | `HTML` | ⭐ 0
 - [**trip_craft**](https://github.com/luffyIGL010/trip_craft) - No description yet | `Python` | ⭐ 0
 - [**phonepe-transaction-insights**](https://github.com/luffyIGL010/phonepe-transaction-insights) - No description yet | `Jupyter Notebook` | ⭐ 0
-- [**Foodie_way**](https://github.com/luffyIGL010/Foodie_way) - No description yet | `HTML` | ⭐ 0
 <!--END_SECTION:repos-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
