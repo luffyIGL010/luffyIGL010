@@ -106,8 +106,8 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/luffyIGL010/Ai_ATS_ResumeChecker/pull/1) in [luffyIGL010/Ai_ATS_ResumeChecker](https://github.com/luffyIGL010/Ai_ATS_ResumeChecker)
-2. 💪 Opened PR [#1](https://github.com/luffyIGL010/Ai_ATS_ResumeChecker/pull/1) in [luffyIGL010/Ai_ATS_ResumeChecker](https://github.com/luffyIGL010/Ai_ATS_ResumeChecker)
+1. 🎉 Merged PR [#2](https://github.com/luffyIGL010/Ai_ATS_ResumeChecker/pull/2) in [luffyIGL010/Ai_ATS_ResumeChecker](https://github.com/luffyIGL010/Ai_ATS_ResumeChecker)
+2. 💪 Opened PR [#2](https://github.com/luffyIGL010/Ai_ATS_ResumeChecker/pull/2) in [luffyIGL010/Ai_ATS_ResumeChecker](https://github.com/luffyIGL010/Ai_ATS_ResumeChecker)
 <!--END_SECTION:activity-->
 
 ## 🆕 Latest Repos
