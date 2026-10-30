@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" width="900" height="260" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#f6f8fa"/></linearGradient>
+<linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0969da"/><stop offset="1" stop-color="#8250df"/></linearGradient>
+<style>
+.fade{opacity:0;animation:fade .8s ease-out forwards}
+.slide{opacity:0;transform:translateY(14px);animation:slide .8s ease-out forwards}
+@keyframes fade{to{opacity:1}}
+@keyframes slide{to{opacity:1;transform:translateY(0)}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+.orb{animation:float 6s ease-in-out infinite}.dot{animation:pulse 1.6s infinite}
+</style></defs>
+<rect width="900" height="260" rx="16" fill="url(#bg)" stroke="#d0d7de"/>
+<g opacity=".5"><circle class="orb" cx="790" cy="150" r="90" fill="none" stroke="url(#ac)" stroke-width="2"/>
+<circle class="orb" cx="790" cy="150" r="55" fill="none" stroke="url(#ac)" stroke-width="2" style="animation-delay:-2s"/>
+<circle class="orb" cx="790" cy="150" r="20" fill="url(#ac)" style="animation-delay:-4s"/></g>
+<g class="fade" style="animation-delay:.1s"><circle class="dot" cx="64" cy="52" r="5" fill="#1a7f37"/>
+<text x="78" y="57" font-size="14" fill="#1a7f37" font-weight="600">Open to work</text></g>
+<text class="slide" style="animation-delay:.2s" x="60" y="122" font-size="56" font-weight="800" fill="url(#ac)">Saurav Rauthan</text>
+<text class="slide" style="animation-delay:.45s" x="60" y="158" font-size="22" font-weight="600" fill="#1f2328">AI / ML Engineer  ·  Python AI Developer</text>
+<text class="slide" style="animation-delay:.65s" x="60" y="184" font-size="15" fill="#57606a">Building AI products that actually ship</text>
+<g class="slide" style="animation-delay:0.90s"><rect x="60" y="196" width="151" height="30" rx="15" fill="none" stroke="#0969da" stroke-opacity=".55"/><text x="135.5" y="216" text-anchor="middle" font-size="13" fill="#0969da">Computer Vision</text></g><g class="slide" style="animation-delay:1.05s"><rect x="223" y="196" width="52" height="30" rx="15" fill="none" stroke="#0969da" stroke-opacity=".55"/><text x="249.0" y="216" text-anchor="middle" font-size="13" fill="#0969da">NLP</text></g><g class="slide" style="animation-delay:1.20s"><rect x="287" y="196" width="69" height="30" rx="15" fill="none" stroke="#0969da" stroke-opacity=".55"/><text x="321.5" y="216" text-anchor="middle" font-size="13" fill="#0969da">GenAI</text></g><g class="slide" style="animation-delay:1.35s"><rect x="368" y="196" width="101" height="30" rx="15" fill="none" stroke="#0969da" stroke-opacity=".55"/><text x="418.5" y="216" text-anchor="middle" font-size="13" fill="#0969da">AI Agents</text></g>
+</svg>
