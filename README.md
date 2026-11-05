@@ -1,98 +1,104 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="light.svg">
-  <img src="light.svg" alt="Saurav Rauthan">
-</picture>
-<br><br>
+<p align="center">
+  <img src="hacker-hero.svg" width="100%" alt="Saurav Rauthan" />
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="about-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="about-light.svg">
-  <img src="about-light.svg" alt="About Saurav Rauthan">
-</picture>
-<br><br>
+<p align="center">
+  <img src="hacker-about.svg" width="100%" alt="About Saurav Rauthan" />
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="credentials-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="credentials-light.svg">
-  <img src="credentials-light.svg" alt="Credentials - Saurav Rauthan">
-</picture>
-<br><br>
+<p align="center">
+  <img src="hacker-credentials.svg" width="100%" alt="Credentials" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurav-rauthan-696a6428a/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sauravrauthan82@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://myportfolio-sand-beta.vercel.app/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Saurav1200/)
-<br><br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/saurav-rauthan-696a6428a/"><img src="https://img.shields.io/badge/LinkedIn-0a0f0a?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=0a0f0a&color=0a0f0a"/></a>
+  <a href="mailto:sauravrauthan82@gmail.com"><img src="https://img.shields.io/badge/Email-0a0f0a?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=0a0f0a&color=0a0f0a"/></a>
+  <a href="https://myportfolio-sand-beta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0a0f0a?style=for-the-badge&logo=vercel&logoColor=00ff41&labelColor=0a0f0a&color=0a0f0a"/></a>
+  <a href="https://leetcode.com/u/Saurav1200/"><img src="https://img.shields.io/badge/LeetCode-0a0f0a?style=for-the-badge&logo=leetcode&logoColor=00ff41&labelColor=0a0f0a&color=0a0f0a"/></a>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-64748B?style=for-the-badge)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F03C2E?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+![Python](https://img.shields.io/badge/Python-0a0f0a?style=for-the-badge&labelColor=0a0f0a&color=0a0f0a&logo=python&logoColor=00ff41)
+![PyTorch](https://img.shields.io/badge/PyTorch-0a0f0a?style=for-the-badge&labelColor=0a0f0a&color=0a0f0a&logo=pytorch&logoColor=00ff41)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0a0f0a?style=for-the-badge&labelColor=0a0f0a&color=0a0f0a&logo=scikitlearn&logoColor=00ff41)
+![OpenCV](https://img.shields.io/badge/OpenCV-0a0f0a?style=for-the-badge&labelColor=0a0f0a&color=0a0f0a&logo=opencv&logoColor=00ff41)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0a0f0a?style=for-the-badge&labelColor=0a0f0a&color=0a0f0a&logo=google&logoColor=00ff41)
+![spaCy](https://img.shields.io/badge/spaCy-0a0f0a?style=for-the-badge&labelColor=0a0f0a&color=0a0f0a&logo=spacy&logoColor=00ff41)
+![Groq](https://img.shields.io/badge/Groq-0a0f0a?style=for-the-badge&labelColor=0a0f0a&color=0a0f0a)
+![FastAPI](https://img.shields.io/badge/FastAPI-0a0f0a?style=for-the-badge&labelColor=0a0f0a&color=0a0f0a&logo=fastapi&logoColor=00ff41)
+![Flask](https://img.shields.io/badge/Flask-0a0f0a?style=for-the-badge&labelColor=0a0f0a&color=0a0f0a&logo=flask&logoColor=00ff41)
+![Streamlit](https://img.shields.io/badge/Streamlit-0a0f0a?style=for-the-badge&labelColor=0a0f0a&color=0a0f0a&logo=streamlit&logoColor=00ff41)
+![Supabase](https://img.shields.io/badge/Supabase-0a0f0a?style=for-the-badge&labelColor=0a0f0a&color=0a0f0a&logo=supabase&logoColor=00ff41)
+![React](https://img.shields.io/badge/React-0a0f0a?style=for-the-badge&labelColor=0a0f0a&color=0a0f0a&logo=react&logoColor=00ff41)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0f0a?style=for-the-badge&labelColor=0a0f0a&color=0a0f0a&logo=javascript&logoColor=00ff41)
+![HTML5](https://img.shields.io/badge/HTML5-0a0f0a?style=for-the-badge&labelColor=0a0f0a&color=0a0f0a&logo=html5&logoColor=00ff41)
+![CSS3](https://img.shields.io/badge/CSS3-0a0f0a?style=for-the-badge&labelColor=0a0f0a&color=0a0f0a&logo=css3&logoColor=00ff41)
+![Pandas](https://img.shields.io/badge/Pandas-0a0f0a?style=for-the-badge&labelColor=0a0f0a&color=0a0f0a&logo=pandas&logoColor=00ff41)
+![NumPy](https://img.shields.io/badge/NumPy-0a0f0a?style=for-the-badge&labelColor=0a0f0a&color=0a0f0a&logo=numpy&logoColor=00ff41)
+![Vercel](https://img.shields.io/badge/Vercel-0a0f0a?style=for-the-badge&labelColor=0a0f0a&color=0a0f0a&logo=vercel&logoColor=00ff41)
+![Git](https://img.shields.io/badge/Git-0a0f0a?style=for-the-badge&labelColor=0a0f0a&color=0a0f0a&logo=git&logoColor=00ff41)
+![GitHub](https://img.shields.io/badge/GitHub-0a0f0a?style=for-the-badge&labelColor=0a0f0a&color=0a0f0a&logo=github&logoColor=00ff41)
+</p>
 
-## 🚀 Featured Projects
+## 🖥️ `~/projects`
 
 | Project | What it does | Tech | Links |
 |---|---|---|---|
+| 🧠 **Revio AI** | GenAI customer-review intelligence: sentiment, topics, urgency, recommended actions and reply drafts with human approval | FastAPI, Streamlit, Pydantic, Pandas, Grok (xAI) API | [Repo](https://github.com/luffyIGL010/revio-review-intelligence) |
 | 🏋️ **AI Gym Coach** | Real-time pose tracking + AI feedback on exercise form | MediaPipe, OpenCV, Groq API, Streamlit | [Repo](https://github.com/luffyIGL010/Ai_gym_coach) · [Live](https://aigymcoach-5juxjews89c2qjeytpsm8x.streamlit.app) |
 | 📄 **ATS Resume Scorer** | Scores resume vs job description, LLM suggestions, PDF report | FastAPI, Streamlit, spaCy, Sentence Transformers, Groq (Llama 3), Supabase | [Repo](https://github.com/luffyIGL010/Ai_ATS_ResumeChecker) · [Live](https://aiatsresumechecker-7nncaxf47vhxqvytxeu2ka.streamlit.app) |
 | 🧑‍🎓 **Face Recognition Attendance** | Automated attendance using face recognition | Flask, dlib, scikit-learn, Supabase | [Repo](https://github.com/luffyIGL010/Smart_Attendence_AI) · [Live](https://smart-attendance-landing-page.vercel.app/) |
-| 🎨 **Neural Style Transfer** | Applies artistic styles to images | PyTorch, VGG19 | [Repo](https://github.com/luffyIGL010/Neural_Art_Transfer) |
 | ✈️ **TripCraft (Travel AI Agent)** | AI agent for trip planning, hotel booking and travel info | LLM agents | [Repo](https://github.com/luffyIGL010/trip_craft) · [Live](https://tripcraft-frontend-psi.vercel.app/) |
+| 🎨 **Neural Style Transfer** | Applies artistic styles to images | PyTorch, VGG19 | [Repo](https://github.com/luffyIGL010/Neural_Art_Transfer) |
 
-## 📈 Activity Graph
+## 📊 `~/stats`
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=luffyIGL010&show_icons=true&count_private=true&hide_border=false&border_color=0f5a24&bg_color=050805&title_color=00ff41&text_color=c8ffd4&icon_color=00ff41&border_radius=10" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luffyIGL010&layout=compact&langs_count=8&hide_border=false&border_color=0f5a24&bg_color=050805&title_color=00ff41&text_color=c8ffd4&border_radius=10" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=luffyIGL010&background=050805&border=0f5a24&stroke=0f5a24&ring=00ff41&fire=00ff41&currStreakNum=00ff41&sideNums=00ff41&currStreakLabel=00ff41&sideLabels=c8ffd4&dates=4d9b5c&border_radius=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=luffyIGL010&theme=matrix&no-frame=true&row=1&column=7" />
+</p>
+
+## 📈 `~/activity.log`
 
 <!-- Auto-generated by .github/workflows/activity-graph.yml -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/luffyIGL010/luffyIGL010/main/profile-activity/activity.svg" width="100%" alt="Contribution graph" />
 </p>
 
-## 🐍 Contribution Snake
+## 🐍 `~/snake`
 
 <!-- Auto-generated by .github/workflows/snake.yml -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luffyIGL010/luffyIGL010/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luffyIGL010/luffyIGL010/output/github-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/luffyIGL010/luffyIGL010/output/github-snake.svg" />
-  </picture>
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/luffyIGL010/luffyIGL010/output/github-snake-dark.svg" />
 </p>
 
-## ⚡ Recent Activity
+## ⚡ `tail -f recent_activity`
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/luffyIGL010/Ai_ATS_ResumeChecker/pull/4) in [luffyIGL010/Ai_ATS_ResumeChecker](https://github.com/luffyIGL010/Ai_ATS_ResumeChecker)
-2. 🎉 Merged PR [#5](https://github.com/luffyIGL010/Ai_ATS_ResumeChecker/pull/5) in [luffyIGL010/Ai_ATS_ResumeChecker](https://github.com/luffyIGL010/Ai_ATS_ResumeChecker)
+1. 🎉 Merged PR [#1](https://github.com/luffyIGL010/Ai_ATS_ResumeChecker/pull/1) in [luffyIGL010/Ai_ATS_ResumeChecker](https://github.com/luffyIGL010/Ai_ATS_ResumeChecker)
+2. 💪 Opened PR [#1](https://github.com/luffyIGL010/Ai_ATS_ResumeChecker/pull/1) in [luffyIGL010/Ai_ATS_ResumeChecker](https://github.com/luffyIGL010/Ai_ATS_ResumeChecker)
 <!--END_SECTION:activity-->
 
-## 🆕 Latest Repos
+## 🆕 `git log --repos`
 
 <!--START_SECTION:repos-->
-- [**revio-review-intelligence**](https://github.com/luffyIGL010/revio-review-intelligence) - No description yet | `Python` | ⭐ 0
-- [**Ai_ATS_ResumeChecker**](https://github.com/luffyIGL010/Ai_ATS_ResumeChecker) - Scores a resume against a job description with LLM suggestions and a PDF report (FastAPI, Streamlit, spaCy, Groq) | `Jupyter Notebook` | ⭐ 0
-- [**Portfolio**](https://github.com/luffyIGL010/Portfolio) - No description yet | `JavaScript` | ⭐ 0
-- [**trip_craft**](https://github.com/luffyIGL010/trip_craft) - AI agent for trip planning, hotel booking and travel info | `Python` | ⭐ 0
-- [**Ai_gym_coach**](https://github.com/luffyIGL010/Ai_gym_coach) - Real-time pose tracking and AI feedback on exercise form (MediaPipe, OpenCV, Groq) | `Python` | ⭐ 0
+- [**Ai_ATS_ResumeChecker**](https://github.com/luffyIGL010/Ai_ATS_ResumeChecker) - No description yet | `Jupyter Notebook` | ⭐ 0
+- [**Netflix_Clone**](https://github.com/luffyIGL010/Netflix_Clone) - No description yet | `HTML` | ⭐ 0
+- [**trip_craft**](https://github.com/luffyIGL010/trip_craft) - No description yet | `Python` | ⭐ 0
+- [**phonepe-transaction-insights**](https://github.com/luffyIGL010/phonepe-transaction-insights) - No description yet | `Jupyter Notebook` | ⭐ 0
+- [**Foodie_way**](https://github.com/luffyIGL010/Foodie_way) - No description yet | `HTML` | ⭐ 0
 <!--END_SECTION:repos-->
 
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=luffyIGL010&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=luffyIGL010&label=VISITORS&color=00ff41&labelColor=0a0f0a&style=for-the-badge" alt="profile views" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050805,100:00ff41&height=100&section=footer" width="100%" />
