@@ -41,7 +41,7 @@ def render(days):
     for k in range(5):
         y = T + ph * k / 4
         val = round(ymax * (1 - k / 4))
-        grid += f'<line x1="{L}" y1="{y:.1f}" x2="{W-R}" y2="{y:.1f}" stroke="#1f2a44" stroke-dasharray="3 5"/>'
+        grid += f'<line x1="{L}" y1="{y:.1f}" x2="{W-R}" y2="{y:.1f}" stroke="#0f3d1a" stroke-dasharray="3 5"/>'
         grid += f'<text x="{L-10}" y="{y+4:.1f}" text-anchor="end" class="t">{val}</text>'
 
     labels, last_month = "", None
@@ -54,24 +54,24 @@ def render(days):
     dots = ""
     for i, ((d, c), (x, y)) in enumerate(zip(days, pts)):
         if c > 0:
-            dots += f'<circle cx="{x:.1f}" cy="{y:.1f}" r="3" fill="#00d4ff" class="dot" style="animation-delay:{1.2 + i*0.015:.2f}s"><title>{d}: {c} contributions</title></circle>'
+            dots += f'<circle cx="{x:.1f}" cy="{y:.1f}" r="3" fill="#00ff41" class="dot" style="animation-delay:{1.2 + i*0.015:.2f}s"><title>{d}: {c} contributions</title></circle>'
 
     return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}" font-family="Fira Code, monospace">
 <defs>
-<linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#00d4ff" stop-opacity=".45"/><stop offset="1" stop-color="#00d4ff" stop-opacity="0"/></linearGradient>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1a1b27"/><stop offset="1" stop-color="#0f1624"/></linearGradient>
+<linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#00ff41" stop-opacity=".45"/><stop offset="1" stop-color="#00ff41" stop-opacity="0"/></linearGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050805"/><stop offset="1" stop-color="#0a140c"/></linearGradient>
 <style>
-.t{{fill:#7a88b0;font-size:11px}}
-.title{{fill:#7aa2f7;font-size:16px;font-weight:700}}
-.sub{{fill:#9aa5ce;font-size:12px}}
-.ln{{fill:none;stroke:#00d4ff;stroke-width:2.5;stroke-linejoin:round;stroke-linecap:round;stroke-dasharray:1;stroke-dashoffset:1;animation:draw 2.2s ease-out forwards}}
+.t{{fill:#4d9b5c;font-size:11px}}
+.title{{fill:#00ff41;font-size:16px;font-weight:700}}
+.sub{{fill:#00b32c;font-size:12px}}
+.ln{{fill:none;stroke:#00ff41;stroke-width:2.5;stroke-linejoin:round;stroke-linecap:round;stroke-dasharray:1;stroke-dashoffset:1;animation:draw 2.2s ease-out forwards}}
 .ar{{opacity:0;animation:fade 1.2s 1.6s forwards}}
 .dot{{opacity:0;animation:fade .4s forwards}}
 @keyframes draw{{to{{stroke-dashoffset:0}}}}
 @keyframes fade{{to{{opacity:1}}}}
 </style></defs>
 <rect width="{W}" height="{H}" rx="14" fill="url(#bg)"/>
-<text x="{L}" y="30" class="title">{USER}'s contribution graph</text>
+<text x="{L}" y="30" class="title">{USER}@github:~$ contributions --last 90d</text>
 <text x="{L}" y="48" class="sub">last {DAYS} days · {total} contributions</text>
 {grid}{labels}
 <path d="{area}" fill="url(#g)" class="ar"/>
