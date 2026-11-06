@@ -90,11 +90,11 @@
 ## 🆕 `git log --repos`
 
 <!--START_SECTION:repos-->
+- [**Algo_path**](https://github.com/luffyIGL010/Algo_path) - No description yet | `TypeScript` | ⭐ 0
 - [**trip_craft**](https://github.com/luffyIGL010/trip_craft) - AI agent for trip planning, hotel booking and travel info | `Python` | ⭐ 0
 - [**revio-review-intelligence**](https://github.com/luffyIGL010/revio-review-intelligence) - No description yet | `Python` | ⭐ 0
 - [**Ai_ATS_ResumeChecker**](https://github.com/luffyIGL010/Ai_ATS_ResumeChecker) - Scores a resume against a job description with LLM suggestions and a PDF report (FastAPI, Streamlit, spaCy, Groq) | `Jupyter Notebook` | ⭐ 0
 - [**Portfolio**](https://github.com/luffyIGL010/Portfolio) - No description yet | `JavaScript` | ⭐ 0
-- [**Ai_gym_coach**](https://github.com/luffyIGL010/Ai_gym_coach) - Real-time pose tracking and AI feedback on exercise form (MediaPipe, OpenCV, Groq) | `Python` | ⭐ 0
 <!--END_SECTION:repos-->
 
 <p align="center">
