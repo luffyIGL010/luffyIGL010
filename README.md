@@ -83,8 +83,8 @@
 ## ⚡ `tail -f recent_activity`
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#798](https://github.com/ollama/ollama-python/pull/798) in [ollama/ollama-python](https://github.com/ollama/ollama-python)
-2. 🎉 Merged PR [#4](https://github.com/luffyIGL010/Ai_ATS_ResumeChecker/pull/4) in [luffyIGL010/Ai_ATS_ResumeChecker](https://github.com/luffyIGL010/Ai_ATS_ResumeChecker)
+1. 💪 Opened PR [#1](https://github.com/ssarode1410/Jobfit/pull/1) in [ssarode1410/Jobfit](https://github.com/ssarode1410/Jobfit)
+2. 💪 Opened PR [#798](https://github.com/ollama/ollama-python/pull/798) in [ollama/ollama-python](https://github.com/ollama/ollama-python)
 <!--END_SECTION:activity-->
 
 ## 🆕 `git log --repos`
